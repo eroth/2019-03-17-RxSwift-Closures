@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftClosuresPost {
+  umbrella header "Pods-RxSwiftClosuresPost-umbrella.h"
+
+  export *
+  module * { export * }
+}
